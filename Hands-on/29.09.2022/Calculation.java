@@ -93,7 +93,7 @@ public class Calculation {
 			int m=in.nextInt();
 			System.out.println("Division of two number is "+(n/m));
 			break;
-		case 5:
+		default :
 			System.out.println("Invalid Choice");
 			
 		}
