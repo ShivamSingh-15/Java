@@ -7,7 +7,7 @@ package Core_Java;
 
 import java.util.Scanner;
 
-public class Pass_Fail {
+class Pass_Fail {
 	public static void main(String[] args) {
 		//Creating Scanner class object to take input
 		Scanner in=new Scanner(System.in);
