@@ -2,7 +2,7 @@ package Core_Java;
 
 import java.util.Scanner;
 
-public class Bitwise_operstor {
+class Bitwise_operstor {
 	public static void main(String[] args) {
 	Scanner in =new Scanner(System.in);
 	System.out.println("Enter a first number");
