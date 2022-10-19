@@ -19,7 +19,7 @@ class Array_Only_Even
 	  {
 		  arr[i]=in.nextInt();
 	  }
-	  //creating a count variable to check even block is executed
+	  //creating a count variable to check if block is executed
 	  int count=0;
 	  for(int i=0;i<arr.length;i++) 
 	  {
